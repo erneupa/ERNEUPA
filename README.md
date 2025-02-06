@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre]
+# ¡Hola! Soy Erneupa
 
 Bienvenido a mi GitHub. Aquí encontrarás mis proyectos y experimentos relacionados con la programación, el desarrollo web, la ciencia de datos, y otros intereses tecnológicos. Siempre estoy buscando aprender nuevas herramientas y tecnologías, y este repositorio es una forma de mostrar todo lo que voy creando.
 
