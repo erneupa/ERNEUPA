@@ -1,4 +1,4 @@
-# 🌟 ¡Hola! Soy [Tu Nombre] 👨‍💻
+# 🌟 ¡Hola! Soy Erneupa 👨‍💻
 
 ¡Bienvenido a mi espacio en GitHub! Soy un **desarrollador entusiasta** que se dedica a crear soluciones innovadoras con las últimas tecnologías. En este repositorio, puedes encontrar algunos de mis proyectos más interesantes en **desarrollo web**, **inteligencia artificial**, **machine learning** y **automatización**.
 
