@@ -1,4 +1,7 @@
-# ![Python]([https://cdn.discordapp.com/attachments/803016021723709450/1196930591413768242/Diseno-sin-titulo-3-unscreen.gif?ex=67a52afa&is=67a3d97a&hm=205c7323f0cecfbded75814fbfb3b8b3e5384c55d480f3d5d256a7c740b8a4a6&])
+# ![Python]([https://cdn.discordapp.com/attachments/803016021723709450/1196930591413768242/Diseno-sin-titulo-3-unscreen.gif?
+ex=67a52afa&is=67a3d97a&hm=205c7323f0cecfbded75814fbfb3b8b3e5384c55d480f3d5d256a7c740b8a4a6&])
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erneupa&label=Profile%20views&color=0e75b6&style=flat" alt="erneupa" /> </p>
+
  ¡Hola! Soy Erneupa 👨‍💻
 
 ¡Bienvenido a mi espacio en GitHub! Soy un **desarrollador entusiasta** que se dedica a crear soluciones innovadoras con las últimas tecnologías. En este repositorio, puedes encontrar algunos de mis proyectos más interesantes en **desarrollo web**, **inteligencia artificial**, **machine learning** y **automatización**.
