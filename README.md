@@ -1,6 +1,6 @@
 # ¡Hola! Soy Erneupa 👨‍💻
 
-¡Bienvenido a mi espacio en GitHub! Soy un **desarrollador entusiasta** que se dedica a crear soluciones innovadoras con las últimas tecnologías. En este repositorio, puedes encontrar algunos de mis proyectos más interesantes en **desarrollo web**, **inteligencia artificial**, **machine learning** y **automatización**.
+¡Bienvenido a mi cuenta en GitHub! Soy un **desarrollador entusiasta** que se dedica a crear soluciones innovadoras con las últimas tecnologías. En este repositorio, puedes encontrar algunos de mis proyectos más interesantes en **desarrollo web**, **inteligencia artificial**, **machine learning** y **automatización**.
 
 ⚡ **Mi misión**: Crear aplicaciones intuitivas y poderosas mientras sigo aprendiendo y creciendo como desarrollador.
 
@@ -12,7 +12,7 @@ Aquí tienes una lista de algunos de los proyectos más emocionantes que he esta
 
 | Proyecto        | Descripción                                         | Enlace                | Imagen                                      |
 |-----------------|-----------------------------------------------------|-----------------------|---------------------------------------------|
-| **🌐 WebApp**   | Una aplicación web usando **React** y **Node.js**. | [Ver Proyecto](enlace) | ![WebApp](https://via.placeholder.com/200x100) |
+| **🌐 CodesFLY**   | Una aplicación web usando **HTML5**, **CSS3** y **JavaScript**. | [Ver Proyecto](erneupa/CodesFLY) | ![WebApp](https://via.placeholder.com/200x100) |
 | **🤖 AI Project**| Un modelo de IA para clasificar imágenes.         | [Ver Proyecto](enlace) | ![AI Project](https://via.placeholder.com/200x100) |
 | **📱 App Móvil**| App desarrollada con **React Native**.            | [Ver Proyecto](enlace) | ![Mobile App](https://via.placeholder.com/200x100) |
 
