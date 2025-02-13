@@ -67,6 +67,7 @@ Soy un apasionado desarrollador con interés en:
 
 🐍 **Animación de commits:**
 ![GitHub Snake](https://github.com/erneupa/ERNEUPA/blob/output/github-contribution-grid-snake.svg)
+
 🕹 **Juego ASCII en Terminal:**  
 ```bash
 npx cowsay "Hola, bienvenido a mi perfil!"
