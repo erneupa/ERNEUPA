@@ -66,7 +66,7 @@ Soy un apasionado desarrollador con interés en:
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🐍 **Animación de commits:**
-![GitHub Snake](https://github.com/tu_usuario/tu_usuario/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/erneupa/erneupa/blob/output/github-contribution-grid-snake.svg)
 
 🕹 **Juego ASCII en Terminal:**  
 ```bash
