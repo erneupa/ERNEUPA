@@ -10,11 +10,11 @@
 
 Aquí tienes una lista de algunos de los proyectos más emocionantes que he estado trabajando. ¡Explóralos!
 
-| Proyecto        | Descripción                                         | Enlace                | Imagen                                      |
-|-----------------|-----------------------------------------------------|-----------------------|---------------------------------------------|
-| **🌐 CodesFLY**   | Una aplicación web usando **HTML5**, **CSS3** y **JavaScript**. | [Ver Proyecto](erneupa/CodesFLY) | ![WebApp](https://via.placeholder.com/200x100) |
-| **🤖 AI Project**| Un modelo de IA para clasificar imágenes.         | [Ver Proyecto](enlace) | ![AI Project](https://via.placeholder.com/200x100) |
-| **📱 App Móvil**| App desarrollada con **React Native**.            | [Ver Proyecto](enlace) | ![Mobile App](https://via.placeholder.com/200x100) |
+| Proyecto        | Descripción                                         | Enlace                |
+|-----------------|-----------------------------------------------------|-----------------------|
+| **🌐 CodesFLY**   | Una aplicación web usando **HTML5**, **CSS3** y **JavaScript**. | [Ver Proyecto](CodesFLY) |
+| **🤖 AI Project**| Un modelo de IA para clasificar imágenes.         | [Ver Proyecto](enlace) | 
+| **📱 App Móvil**| App desarrollada con **React Native**.            | [Ver Proyecto](enlace) | 
 
 ---
 
