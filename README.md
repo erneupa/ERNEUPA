@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy [Tu Nombre]
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=erneupa&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🚀 Sobre mí
 Soy un apasionado del desarrollo de software con experiencia en [lenguajes/tecnologías principales]. Me encanta aprender, compartir conocimiento y construir proyectos innovadores.
