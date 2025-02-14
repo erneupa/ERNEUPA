@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <img src="/assets/saludo.gif" width="100">
-  <img src="https://img.shields.io/badge/-¡Hola!%20Soy%20erneupa-%238e44ad?style=for-the-badge" width= "200" alt="saludo">
+  <img src="https://img.shields.io/badge/-¡Hola!%20Soy%20erneupa-%238e44ad?style=for-the-badge" width= "400" alt="saludo">
   <img src="/assets/saludo.gif" width="100">
 </h1>
 
