@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy [Tu Nombre]
-![👀](https://komarev.com/ghpvc/?username=erneupa&label=Profile%20views&color=8e44ad&style=flat)
+![👀](https://komarev.com/ghpvc/?username=erneupa&label=👀&color=8e44ad&style=flat)
 
 
 ## 🚀 Sobre mí
