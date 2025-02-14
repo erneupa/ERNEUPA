@@ -8,7 +8,7 @@ Aarón Neupaver Montiel
   <img src="https://img.shields.io/badge/-¡Hola!%20Soy%20erneupa-%23a855f7?style=flat-square" with="100" alt="saludo">
   <img src="/assets/saludo.gif" width="100">
 </h1>
-  
+  <h1 style="font-size: 40px; color: #a855f7;">¡Hola! Soy erneupa</h1>
 
 
 ## 🚀 Sobre mí
