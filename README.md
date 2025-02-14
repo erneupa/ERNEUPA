@@ -5,7 +5,7 @@ Aarón Neupaver Montiel
 
 <h1>
   <img src="/assets/saludo.gif" width="100">
-  <img src="https://img.shields.io/badge/-¡Hola!%20Soy%20erneupa-%238e44ad?style=flat-square" width="500" alt="saludo">
+  <img src="https://img.shields.io/badge/-¡Hola!%20Soy%20erneupa-%238e44ad?style=flat-square" width="400" alt="saludo">
   <img src="/assets/saludo.gif" width="100">
 </h1>
 
