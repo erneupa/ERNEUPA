@@ -5,7 +5,7 @@ Aarón Neupaver Montiel
 
 <h1>
   <img src="/assets/saludo.gif" width="100">
-  <span style="color: #8e44ad;">¡Hola! Soy erneupa</span>
+  <span style="color: #a855f7;">¡Hola! Soy erneupa</span>
   <img src="/assets/saludo.gif" width="100">
 </h1>
 
