@@ -1,4 +1,4 @@
-Aarón Neupaver Montiel
+<img src="https://img.shields.io/badge/-Aarón%20Neupaver%20Montiel-%238e44ad?style=flat-square" width="400" alt="saludo">
 
 ![👀](https://komarev.com/ghpvc/?username=erneupa&label=👁️&color=8e44ad&style=flat)
 
