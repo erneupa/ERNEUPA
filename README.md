@@ -2,9 +2,7 @@ Aarón Neupaver Montiel
 
 ![👀](https://komarev.com/ghpvc/?username=erneupa&label=👁️&color=8e44ad&style=flat)
 
-<img src="/assets/saludo.gif" width="70">
-
-# 👋 ¡Hola! Soy erneupa
+<img src="/assets/saludo.gif" width="70"> # ¡Hola! Soy erneupa
 
 ## 🚀 Sobre mí
 Soy un apasionado del desarrollo de software con experiencia en [lenguajes/tecnologías principales]. Me encanta aprender, compartir conocimiento y construir proyectos innovadores.
