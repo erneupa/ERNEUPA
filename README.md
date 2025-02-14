@@ -49,8 +49,8 @@
 ## 📊 Estadísticas  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erneupa&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erneupa&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api? name=erneupa&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erneupa&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
