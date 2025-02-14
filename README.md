@@ -10,7 +10,7 @@ article{
   <img src="/assets/saludo.gif" width="70">
   <h1> ¡Hola! Soy erneupa </h1>
 </article>
-<h1> <img src="/assets/saludo.gif" width="70">¡Hola! Soy erneupa </h1>
+<h1> <img src="/assets/saludo.gif" width="100">¡Hola! Soy erneupa </h1>
 
 ## 🚀 Sobre mí
 Soy un apasionado del desarrollo de software con experiencia en [lenguajes/tecnologías principales]. Me encanta aprender, compartir conocimiento y construir proyectos innovadores.
