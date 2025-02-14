@@ -10,8 +10,7 @@
 
 ---
 
-## 🚀 Sobre mí  
-💡 **Desarrollador apasionado** con experiencia en **desarrollo web y móvil**.  
+## 🚀 Sobre mí   
 🔍 Me encanta explorar **nuevas tecnologías** y mejorar mis habilidades.  
 🎯 Especializado en **desarrollo con Python, Kotlin y tecnologías web**.  
 💬 Siempre dispuesto a aprender y colaborar en proyectos interesantes.  
@@ -51,7 +50,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erneupa&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erneupa&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
