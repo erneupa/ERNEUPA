@@ -7,6 +7,7 @@ Aarón Neupaver Montiel
   <img src="/assets/saludo.gif" width="100">
   ¡Hola! Soy erneupa 
   <img src="/assets/saludo.gif" width="100">
+  color: purple;
 </h1>
 
 ## 🚀 Sobre mí
