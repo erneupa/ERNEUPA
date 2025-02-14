@@ -1,6 +1,9 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+Aarón Neupaver Montiel
+
 ![👀](https://komarev.com/ghpvc/?username=erneupa&label=👁️&color=8e44ad&style=flat)
 
+![Descripción de la imagen](/assets/saludo.gif)
+# 👋 ¡Hola! Soy erneupa
 
 ## 🚀 Sobre mí
 Soy un apasionado del desarrollo de software con experiencia en [lenguajes/tecnologías principales]. Me encanta aprender, compartir conocimiento y construir proyectos innovadores.
