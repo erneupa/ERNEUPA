@@ -2,6 +2,10 @@ Aarón Neupaver Montiel
 
 ![👀](https://komarev.com/ghpvc/?username=erneupa&label=👁️&color=8e44ad&style=flat)
 
+article{
+  displey: flex;
+  flex-direction: row;
+}
 <article>
   <img src="/assets/saludo.gif" width="70">
   <h1> ¡Hola! Soy erneupa </h1>
