@@ -5,11 +5,9 @@ Aarón Neupaver Montiel
 
 <h1>
   <img src="/assets/saludo.gif" width="100">
-  <img src="https://img.shields.io/badge/-¡Hola!%20Soy%20erneupa-%23a855f7?style=flat-square" with="100" alt="saludo">
+  <img src="https://img.shields.io/badge/-¡Hola!%20Soy%20erneupa-%28e44ad7?style=flat-square" width="100" alt="saludo">
   <img src="/assets/saludo.gif" width="100">
 </h1>
-  <h1 style="font-size: 40px; color: #a855f7;">¡Hola! Soy erneupa</h1>
-
 
 ## 🚀 Sobre mí
 Soy un apasionado del desarrollo de software con experiencia en [lenguajes/tecnologías principales]. Me encanta aprender, compartir conocimiento y construir proyectos innovadores.
