@@ -6,7 +6,7 @@ Aarón Neupaver Montiel
 <h1>
   <img src="/assets/saludo.gif" width="100">
   ¡Hola! Soy erneupa 
-  <img src="/assets/saludo.gif" width="100"><img src="/assets/saludo.gif" width="100">
+  <img src="/assets/saludo.gif" width="100">
 </h1>
 
 ## 🚀 Sobre mí
