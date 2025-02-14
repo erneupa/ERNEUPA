@@ -5,10 +5,10 @@ Aarón Neupaver Montiel
 
 <h1>
   <img src="/assets/saludo.gif" width="100">
-  <span style="color: #a855f7;">¡Hola! Soy erneupa</span>
+  <img src="https://img.shields.io/badge/-¡Hola!%20Soy%20erneupa-%23a855f7?style=flat-square" with="100" alt="saludo">
   <img src="/assets/saludo.gif" width="100">
 </h1>
-# <img src="https://img.shields.io/badge/-¡Hola!%20Soy%20erneupa-%23a855f7?style=flat-square" alt="saludo">  
+  
 
 
 ## 🚀 Sobre mí
