@@ -59,7 +59,7 @@
 ## 📫 Contacto  
 
 📧 **Email:** [aaronneupaver@gmail.com]   
-📷 **Instagram:** [@tuhandle](https://instagram.com/aaron_nm_)  
+📷 **Instagram:** [@aaron_nm_](https://instagram.com/aaron_nm_)  
 💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/aaron-neupaver)  
 
 📌 ¡No dudes en conectar conmigo y colaborar en proyectos interesantes! 😃  
