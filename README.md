@@ -38,7 +38,7 @@
 
 ## 📌 Proyectos Destacados  
 
-🔹 **[NMAP-Casero](URL del repositorio)** - Breve descripción del proyecto.  
+🔹 **[NMAP-Casero](https://github.com/erneupa/NMAPCasero.git)** - Comprobación de IP activas + detección de puertos abiertos.
 🔹 **[Proyecto 2](URL del repositorio)** - Breve descripción del proyecto.  
 🔹 **[Proyecto 3](URL del repositorio)** - Breve descripción del proyecto.  
 
