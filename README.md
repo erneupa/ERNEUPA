@@ -58,11 +58,9 @@
 
 ## 📫 Contacto  
 
-📧 **Email:** [tuemail@example.com]  
-🌐 **Portafolio:** [tuportafolio.com]  
-🐦 **Twitter:** [@tuhandle](https://twitter.com/tuhandle)  
-📷 **Instagram:** [@tuhandle](https://instagram.com/tuhandle)  
-💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
+📧 **Email:** [aaronneupaver@gmail.com]   
+📷 **Instagram:** [@tuhandle](https://instagram.com/aaron_nm_)  
+💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/aaron-neupaver)  
 
 📌 ¡No dudes en conectar conmigo y colaborar en proyectos interesantes! 😃  
 
